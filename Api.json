@@ -1,0 +1,9 @@
+{
+    "title": "Toys Kingdom",
+    "description": "Find a cheap one, this is the place!",
+    "movies": [
+      { "id": "1", "title": "untuk mencari gambar." },
+      { "id": "2", "title": "untuk memudahkan pembeli melihat harga." },
+      { "id": "3", "title": "selamat mencari mainan yang anda suka." }
+    ]
+  }
